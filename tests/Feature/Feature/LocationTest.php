@@ -16,25 +16,7 @@ class LocationTest extends TestCase
     {
         // Arrange
         // Create a location
-        $name = 'Central Park';
-        $lat = '40.784083425938';
-        $long = '-73.964853286743';
-        $address = '59th St to 110th St (5th Ave to Central Park West)';
-        $category = 'Park';
-        $link = 'https://foursquare.com/v/412d2800f964a520df0c1fe3';
-        $rating = '9.8';
-        $image = 'https://igx.4sqi.net/img/general/500x500/655018_Zp3vA90Sy4IIDApvfAo5KnDItoV0uEDZeST7bWT-qzk.jpg';
-
-        $location = factory(Location::class)->create([
-            'name' => $name,
-            'latitude' => $lat,
-            'longitude' => $long,
-            'address' => $address,
-            'category' => $category,
-            'link' => $link,
-            'rating' => $rating,
-            'image' => $image,
-        ]);
+        $location = factory(Location::class)->create();
 
         // Act
         // Call the relevant endpoint to get details of the location
@@ -43,14 +25,14 @@ class LocationTest extends TestCase
         // Assert
         // Check the location details returned are correct
         $response->assertStatus(200)->assertJson([
-            'name' => $name,
-            'latitude' => $lat,
-            'longitude' => $long,
-            'address' => $address,
-            'category' => $category,
-            'link' => $link,
-            'rating' => $rating,
-            'image' => $image,
+            'name' => $location->name,
+            'latitude' => $location->latitude,
+            'longitude' => $location->longitude,
+            'address' => $location->address,
+            'category' => $location->category,
+            'link' => $location->link,
+            'rating' => $location->rating,
+            'image' => $location->image,
         ]);
     }
 }
