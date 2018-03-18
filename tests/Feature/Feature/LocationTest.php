@@ -20,7 +20,7 @@ class LocationTest extends TestCase
 
         // Act
         // Call the relevant endpoint to get details of the location
-        $response = $this->get("/api/locations/location?id={$location->id}");
+        $response = $this->get("/api/locations/{$location->id}");
 
         // Assert
         // Check the location details returned are correct
