@@ -11,4 +11,20 @@ class LocationController extends Controller
     {
         return $location;
     }
+
+    public function store(Request $request)
+    {
+      $location = Location::create([
+        'name' => $request->input('name'),
+        'latitude' => $request->input('latitude'),
+        'longitude' => $request->input('longitude'),
+        'address' => $request->input('address'),
+        'category' => $request->input('category'),
+        'link' => $request->input('link'),
+        'rating' => $request->input('rating'),
+        'image' => $request->input('image')
+      ]);
+
+      return response()->json($location, 201);
+    }
 }

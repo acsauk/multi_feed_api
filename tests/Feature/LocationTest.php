@@ -73,7 +73,7 @@ class LocationTest extends TestCase
               'latitude' => $latitude,
               'longitude' => $longitude,
               'address' => $address,
-              'category' => $ategory,
+              'category' => $category,
               'link' => $link,
               'rating' => $rating,
               'image' => $image
