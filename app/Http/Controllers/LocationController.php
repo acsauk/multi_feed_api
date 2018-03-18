@@ -22,7 +22,8 @@ class LocationController extends Controller
         'category' => $request->input('category'),
         'link' => $request->input('link'),
         'rating' => $request->input('rating'),
-        'image' => $request->input('image')
+        'image' => $request->input('image'),
+        'price' => $request->input('price')
       ]);
 
       return response()->json($location, 201);

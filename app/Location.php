@@ -13,6 +13,7 @@ class Location extends Model
                           'category',
                           'link',
                           'rating',
-                          'image'
+                          'image',
+                          'price'
     ];
 }
