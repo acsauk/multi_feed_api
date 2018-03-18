@@ -7,7 +7,7 @@ use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use App\Location;
 
-class ViewLocationTest extends TestCase
+class LocationTest extends TestCase
 {
     use RefreshDatabase;
 
