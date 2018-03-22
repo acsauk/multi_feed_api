@@ -92,11 +92,11 @@ class FeedTest extends TestCase
         $feed_provider_name = json_decode(Feed::first()->original_feed, false)->data->location->provider->name;
 
         $persisted_locations = Location::all();
-        $persisted_provider = Provider::first()->id;
+        $persisted_provider = Provider::first();
 
         foreach($persisted_locations as $persisted_location)
         {
-            $this->assertEquals($persisted_location->provider, $persisted_provider);
+            $this->assertEquals($persisted_location->provider->id, $persisted_provider->id);
         }
     }
 }

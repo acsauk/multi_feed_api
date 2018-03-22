@@ -14,7 +14,7 @@ class AddProviderRefToLocations extends Migration
     public function up()
     {
         Schema::table('locations', function (Blueprint $table) {
-            $table->integer('provider_id')->unsigned()->index();
+            $table->integer('provider_id')->unsigned()->index()->nullable();
             $table->foreign('provider_id')->references('id')->on('providers');
         });
     }
@@ -27,6 +27,8 @@ class AddProviderRefToLocations extends Migration
     public function down()
     {
       Schema::table('locations', function (Blueprint $table) {
+          $table->dropForeign('locations_provider_id_foreign');
+          $table->dropIndex('locations_provider_id_index');
           $table->dropColumn('provider_id');
       });
     }
