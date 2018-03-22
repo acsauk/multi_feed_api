@@ -8,6 +8,7 @@ use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use App\Feed;
 use App\Location;
+use App\Provider;
 
 class FeedTest extends TestCase
 {
@@ -69,10 +70,10 @@ class FeedTest extends TestCase
         $this->get("/api/feed?url={$external_feed_url}");
 
         // Assert
-        $feed_provider = json_decode(Feed::first()->original_feed, false)->data->location->provider->name;
+        $feed_provider_name = json_decode(Feed::first()->original_feed, false)->data->location->provider->name;
 
         $persisted_provider = Provider::first();
 
-        $this->assertEquals($feed_provider, $persisted_provider);
+        $this->assertEquals($feed_provider_name, $persisted_provider->name);
     }
 }

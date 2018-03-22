@@ -4,6 +4,7 @@ namespace App\Listeners;
 
 use App\Events\FeedCreated;
 use App\Location;
+use App\Provider;
 
 class SaveProviderAndLocationsFromFeed
 {
@@ -28,7 +29,9 @@ class SaveProviderAndLocationsFromFeed
         // Translate feed into Provider and Location
         $feedObject = json_decode($event->feed->original_feed, false);
 
-        $provider = $feedObject->meta->provider->service;
+        $provider_name = $feedObject->data->location->provider->name;
+        Provider::create(['name' => $provider_name]);
+
         $locations = $feedObject->data->locations;
 
         // Iterate over locations and save each to Location
