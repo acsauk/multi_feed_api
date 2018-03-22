@@ -16,4 +16,9 @@ class Location extends Model
                           'image',
                           'price'
     ];
+
+    public function provider()
+    {
+        return $this->belongsTo('App\Provider');  
+    }
 }
