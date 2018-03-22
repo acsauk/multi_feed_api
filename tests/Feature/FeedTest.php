@@ -56,4 +56,23 @@ class FeedTest extends TestCase
             $this->assertContains($persisted_location->name, $feed_locations_names);
         }
     }
+
+    /**
+     * @test
+     */
+    public function provider_from_external_feed_is_saved_as_provider_model()
+    {
+        // Arrange
+        $external_feed_url = 'https://content-api.hiltonapps.com/v1/places/top-places/usa-nycny-fsq?access_token=jobs383-UgWfVvxQXNhDQLw4v';
+
+        // Act
+        $this->get("/api/feed?url={$external_feed_url}");
+
+        // Assert
+        $feed_provider = json_decode(Feed::first()->original_feed, false)->data->location->provider->name;
+
+        $persisted_provider = Provider::first();
+
+        $this->assertEquals($feed_provider, $persisted_provider);
+    }
 }
