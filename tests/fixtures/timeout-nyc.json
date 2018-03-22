@@ -1,0 +1,218 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "success",
+        "provider": {
+            "service": "timeout",
+            "version": 1
+        },
+        "response": {
+            "format": "places:locations",
+            "version": 1
+        }
+    },
+    "data": {
+        "location": {
+            "slug": "new-york-ny-usa-timeout",
+            "name": "New York, NY (USA)",
+            "display_name": "New York",
+            "more_link": "http://www.timeout.com/newyork",
+            "latitude": 40.7128,
+            "longitude": -74.0059,
+            "data": {
+                "foursquare": {
+                    "near": null,
+                    "radius": null
+                },
+                "timeout": {
+                    "slug": "us-newyork"
+                },
+                "viator": {
+                    "dest_id": null
+                },
+                "wingit": {
+                    "tracking_pixel": null
+                }
+            },
+            "meta": {},
+            "created": "2016-02-23T13:15:33Z",
+            "updated": "2016-02-23T13:15:33Z",
+            "provider": {
+                "slug": "timeout",
+                "name": "Timeout",
+                "version": 1,
+                "created": "2016-01-25T09:00:00Z",
+                "updated": "2016-01-25T09:00:00Z",
+                "category": {
+                    "slug": "places",
+                    "name": "Places",
+                    "created": "2015-08-14T14:11:42Z",
+                    "updated": "2015-08-14T14:11:42Z"
+                }
+            }
+        },
+        "locations": [
+            {
+                "name": "Hamilton",
+                "description": "Hamilton: Theater review by David Cote\r\nWhat is left to say? After Founding Father Alexander Hamilton&rsquo;s prodigious quill scratched out 12 volumes of...",
+                "latitude": 40.759034,
+                "longitude": -73.986747,
+                "address": null,
+                "category": "Musicals",
+                "link": "https://www.timeout.com/newyork/theater/hamilton-1",
+                "rating": 5,
+                "price": "$179–$199, premium $477–$849",
+                "image": "https://media.timeout.com/images/102811294/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/102811294/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": "2018-03-17 00:00:00",
+                "end_date": "2018-12-31 04:59:59"
+            },
+            {
+                "name": "Star Wars: The Force Awakens",
+                "description": "We're back to a galaxy far, far away in J.J. Abrams's rousing, pitch-perfect triumph—a feast of nostalgic blockbustering.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": "Science fiction",
+                "link": "https://www.timeout.com/us/film/star-wars-the-force-awakens",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/102806117/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/102806117/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Spotlight",
+                "description": "Tom McCarthy assembles a dream cast for his powerful drama about the journalists who exposed pedophilia in the local Catholic Archdiocese of Boston.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": "Drama",
+                "link": "https://www.timeout.com/us/film/spotlight",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/102836779/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/102836779/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Lilia",
+                "description": "If a new restaurant is lucky, it&rsquo;ll have one destination dish that piques food-geek interest and draws New York&rsquo;s increasingly discerning eaters...",
+                "latitude": 40.717239,
+                "longitude": -73.952167,
+                "address": null,
+                "category": "Italian",
+                "link": "https://www.timeout.com/newyork/restaurants/lilia",
+                "rating": 5,
+                "price": "Average main course: $23",
+                "image": "https://media.timeout.com/images/103663520/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/103663520/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Strand Book Store",
+                "description": "Boasting 18 miles of books, the Strand has a mammoth collection of more than 2 million discount volumes, and the store is made all the more daunting by its...",
+                "latitude": 40.733275,
+                "longitude": -73.99087,
+                "address": null,
+                "category": "Bookstores",
+                "link": "https://www.timeout.com/newyork/shopping/strand-book-store",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/100112691/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/100112691/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Eleven Madison Park",
+                "description": "After shuttering its doors at the beginning of the summer and opening a pop-up in East Hampton, the world&rsquo;s best restaurant (which closed immediately...",
+                "latitude": 40.741299,
+                "longitude": -73.986692,
+                "address": null,
+                "category": "American creative",
+                "link": "https://www.timeout.com/newyork/restaurants/eleven-madison-park",
+                "rating": 5,
+                "price": "16-course tasting menu: $195. AmEx, Disc, MC, V",
+                "image": "https://media.timeout.com/images/104090049/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/104090049/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Blue Jasmine: movie review",
+                "description": "Woody Allen loves his little liars, his self-regarding theater people and swaddled urbanites who, even when pushed up against reality, put on a good show....",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": "Drama",
+                "link": "https://www.timeout.com/us/film/blue-jasmine-movie-review",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/100783307/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/100783307/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "The Conjuring: movie review",
+                "description": "So much is thrown at us by today’s hyperventilating horror that stillness has become the scariest move. Actually, that’s always been the case, but it takes a...",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": "Drama",
+                "link": "https://www.timeout.com/us/film/the-conjuring-movie-review",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/100723515/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/100723515/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "The Nice Guys",
+                "description": "A dazzling throwback to ’70s sleaze and ’80s buddy flicks, Shane Black’s detective story scratches an itch you didn’t know you had.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": "Action and adventure",
+                "link": "https://www.timeout.com/us/film/the-nice-guys",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/103326031/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/103326031/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Suffolk Arms",
+                "description": "There&rsquo;s hardly a name in New York&rsquo;s bar scene more polarizing than Giuseppe Gonz&aacute;lez. The Bronx-born, Cornell-educated barman has worked...",
+                "latitude": 40.721495,
+                "longitude": -73.984675,
+                "address": null,
+                "category": "Cocktail bars",
+                "link": "https://www.timeout.com/newyork/bars/suffolk-arms",
+                "rating": 5,
+                "price": "Average cocktail: $12",
+                "image": "https://media.timeout.com/images/103257856/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/103257856/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "more_link": "http://www.timeout.com/newyork"
+    }
+}

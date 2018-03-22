@@ -19,3 +19,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::get('/locations/{location}', 'LocationController@show');
 Route::post('/locations', 'LocationController@store');
+
+Route::get('/feed', 'FeedController@create');

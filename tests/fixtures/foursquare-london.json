@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "success",
+        "provider": {
+            "service": "foursquare",
+            "version": 1
+        },
+        "response": {
+            "format": "places:locations",
+            "version": 1
+        }
+    },
+    "data": {
+        "location": {
+            "slug": "uk-london-fsq",
+            "name": "London (UK)",
+            "display_name": "London",
+            "more_link": "https://foursquare.com/explore?mode=url&near=London%2C+UK",
+            "latitude": 51.5074,
+            "longitude": -0.1278,
+            "data": {
+                "foursquare": {
+                    "near": null,
+                    "radius": null
+                },
+                "timeout": {
+                    "slug": null
+                },
+                "viator": {
+                    "dest_id": null
+                },
+                "wingit": {
+                    "tracking_pixel": null
+                }
+            },
+            "meta": {},
+            "created": "2015-08-14T14:11:42Z",
+            "updated": "2015-08-14T14:11:42Z",
+            "provider": {
+                "slug": "foursquare",
+                "name": "Foursquare",
+                "version": 1,
+                "created": "2015-08-14T14:11:42Z",
+                "updated": "2015-08-14T14:11:42Z",
+                "category": {
+                    "slug": "places",
+                    "name": "Places",
+                    "created": "2015-08-14T14:11:42Z",
+                    "updated": "2015-08-14T14:11:42Z"
+                }
+            }
+        },
+        "locations": [
+            {
+                "name": "National Gallery",
+                "latitude": 51.508876010132,
+                "longitude": -0.12847781181335,
+                "address": "Trafalgar Sq",
+                "category": "Art Gallery",
+                "link": "https://foursquare.com/v/4ac518cdf964a520e6a520e3",
+                "rating": 9.6,
+                "price": 1,
+                "image": "https://igx.4sqi.net/img/general/500x500/E73W9kk7I6fMdVWd3BrXKV5INakw_e7S35rGhNRZDGw.jpg"
+            },
+            {
+                "name": "Trafalgar Square",
+                "latitude": 51.507934564361,
+                "longitude": -0.12763739517085,
+                "address": "Trafalgar Sq",
+                "category": "Plaza",
+                "link": "https://foursquare.com/v/4ac518cef964a520f9a520e3",
+                "rating": 9.4,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/19397008_mpdBSDOL_tnC9js-qR6MK8SvVfRCZ9n9S_DjW1JGEP0.jpg"
+            },
+            {
+                "name": "Corinthia Hotel",
+                "latitude": 51.506606723476,
+                "longitude": -0.12446016991111,
+                "address": "Whitehall Pl",
+                "category": "Hotel",
+                "link": "https://foursquare.com/v/4d274945d86aa09024d41dc0",
+                "rating": 9.4,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/z68S1QBEhqbeXAmXSvV8bTtehsXvcxTvAfs2uo5IJF4.jpg"
+            },
+            {
+                "name": "National Portrait Gallery",
+                "latitude": 51.509438063584,
+                "longitude": -0.12803243469857,
+                "address": "St. Martin's Pl",
+                "category": "Art Gallery",
+                "link": "https://foursquare.com/v/4ac518d2f964a52047a720e3",
+                "rating": 9.3,
+                "price": 1,
+                "image": "https://igx.4sqi.net/img/general/500x500/42325385_CP85lWpMGhCpxp9CBLClB1arFo7rUnbTiQB53v1A_g4.jpg"
+            },
+            {
+                "name": "Gordon's Wine Bar",
+                "latitude": 51.507894679311,
+                "longitude": -0.12323211072545,
+                "address": "47 Villiers St (Watergate Walk)",
+                "category": "Wine Bar",
+                "link": "https://foursquare.com/v/4acdb591f964a520c7cc20e3",
+                "rating": 9.4,
+                "price": 2,
+                "image": "https://igx.4sqi.net/img/general/500x500/715957_xETDrWnb8DSv8TQc3YYTbGLVzRtLNIsc8lwwkRqFz34.jpg"
+            },
+            {
+                "name": "Ole & Steen",
+                "latitude": 51.509229044749,
+                "longitude": -0.13254417024866,
+                "address": "2 St. James Market (56 Haymarket)",
+                "category": "Bakery",
+                "link": "https://foursquare.com/v/585970d56ad73d0218d2eb31",
+                "rating": 9.3,
+                "price": 1,
+                "image": "https://igx.4sqi.net/img/general/500x500/12449177_t4XQb1tuu10zJ8RUmQMrWAPtrYWS7T6iIfG57jwsfqA.jpg"
+            },
+            {
+                "name": "Milos",
+                "latitude": 51.508117194461,
+                "longitude": -0.13334124484466,
+                "address": "1-3 Regent St",
+                "category": "Greek Restaurant",
+                "link": "https://foursquare.com/v/55df738f498e7d1805fafb9d",
+                "rating": 9.3,
+                "price": 4,
+                "image": "https://igx.4sqi.net/img/general/500x500/14873158_xTrwfyuE5c148vs3Y7oNnnY2VN6XbYU0ol65mZevnJY.jpg"
+            },
+            {
+                "name": "Amorino",
+                "latitude": 51.511509713378,
+                "longitude": -0.12579446341794,
+                "address": "7 Garrick St",
+                "category": "Ice Cream Shop",
+                "link": "https://foursquare.com/v/51785e73f2e7120112192160",
+                "rating": 9.3,
+                "price": 1,
+                "image": "https://igx.4sqi.net/img/general/500x500/14154041_iB9Dmp0YsNN0M-FCb6FuzyxWGdc-uhR7JtFp9PmY2oo.jpg"
+            },
+            {
+                "name": "Stanfords",
+                "latitude": 51.511959514276,
+                "longitude": -0.12602472222344,
+                "address": "12-14 Long Acre (near St Martin's Ln)",
+                "category": "Bookstore",
+                "link": "https://foursquare.com/v/4ad63fe4f964a520080621e3",
+                "rating": 9.4,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/1124880_K-wWWX6MbAG1udaSik5O8WbzT7GkC8ILOvYb9T81ask.jpg"
+            },
+            {
+                "name": "Flat Iron",
+                "latitude": 51.51084146746,
+                "longitude": -0.12409270211071,
+                "address": "17-18 Henrietta St",
+                "category": "Steakhouse",
+                "link": "https://foursquare.com/v/565ca96e498e87528d10e88c",
+                "rating": 9.3,
+                "price": 2,
+                "image": "https://igx.4sqi.net/img/general/500x500/12765919_DmOqmgwvdX3ulZnqx-NYkDghiR8ORlaJZKHzo33UG5M.jpg"
+            }
+        ],
+        "more_link": "https://foursquare.com/explore?mode=url&near=London%2C+UK"
+    }
+}

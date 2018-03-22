@@ -1,0 +1,168 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "success",
+        "provider": {
+            "service": "foursquare",
+            "version": 1
+        },
+        "response": {
+            "format": "places:locations",
+            "version": 1
+        }
+    },
+    "data": {
+        "location": {
+            "slug": "usa-nycny-fsq",
+            "name": "New York, NY (USA)",
+            "display_name": "New York, NY",
+            "more_link": "https://foursquare.com/explore?mode=url&near=New+York%2C+NY",
+            "latitude": 40.7449,
+            "longitude": -73.9915,
+            "data": {
+                "foursquare": {
+                    "near": "new york, ny",
+                    "radius": null
+                },
+                "timeout": {
+                    "slug": null
+                },
+                "viator": {
+                    "dest_id": null
+                },
+                "wingit": {
+                    "tracking_pixel": null
+                }
+            },
+            "meta": {},
+            "created": "2015-08-14T14:11:42Z",
+            "updated": "2015-12-08T15:45:59Z",
+            "provider": {
+                "slug": "foursquare",
+                "name": "Foursquare",
+                "version": 1,
+                "created": "2015-08-14T14:11:42Z",
+                "updated": "2015-08-14T14:11:42Z",
+                "category": {
+                    "slug": "places",
+                    "name": "Places",
+                    "created": "2015-08-14T14:11:42Z",
+                    "updated": "2015-08-14T14:11:42Z"
+                }
+            }
+        },
+        "locations": [
+            {
+                "name": "Central Park",
+                "latitude": 40.784083425938,
+                "longitude": -73.964853286743,
+                "address": "59th St to 110th St (5th Ave to Central Park West)",
+                "category": "Park",
+                "link": "https://foursquare.com/v/412d2800f964a520df0c1fe3",
+                "rating": 9.8,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/655018_Zp3vA90Sy4IIDApvfAo5KnDItoV0uEDZeST7bWT-qzk.jpg"
+            },
+            {
+                "name": "Brooklyn Bridge Park",
+                "latitude": 40.702282,
+                "longitude": -73.996456,
+                "address": "Main St (Plymouth St)",
+                "category": "Park",
+                "link": "https://foursquare.com/v/430d0a00f964a5203e271fe3",
+                "rating": 9.7,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/46606820_YgjTokGqRcelaf2Pc86R8yID8ufSZC4h-LxFq0LwoXg.jpg"
+            },
+            {
+                "name": "The Metropolitan Museum of Art (Metropolitan Museum of Art)",
+                "latitude": 40.779729021268,
+                "longitude": -73.963415622711,
+                "address": "1000 5th Ave (btwn E 80th & E 84th St)",
+                "category": "Art Museum",
+                "link": "https://foursquare.com/v/427c0500f964a52097211fe3",
+                "rating": 9.7,
+                "price": 1,
+                "image": "https://igx.4sqi.net/img/general/500x500/1022386_wEd7VXnWzp5lajvRLtAPunoiufDSIq8PMEtEuIH2Tzg.jpg"
+            },
+            {
+                "name": "Bryant Park",
+                "latitude": 40.753965887486,
+                "longitude": -73.983958499911,
+                "address": "E 42nd St (btwn 5th & 6th Ave)",
+                "category": "Park",
+                "link": "https://foursquare.com/v/3fd66200f964a520d7f11ee3",
+                "rating": 9.7,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/1112348_XN9BG-MFXC20fhjZAXNtGeEd8kzgFOWQ7n8Q7LsKEvE.jpg"
+            },
+            {
+                "name": "Equinox West 50th Street",
+                "latitude": 40.761912,
+                "longitude": -73.984268,
+                "address": "1633 Broadway (at Paramount Plz)",
+                "category": "Gym / Fitness Center",
+                "link": "https://foursquare.com/v/4a66f31af964a520dcc81fe3",
+                "rating": 9.7,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/20628841_GQ2FJ28iKX9OdkJKPEQhsEaAtPoxBlq0iZbBRvOxC8k.jpg"
+            },
+            {
+                "name": "High Line",
+                "latitude": 40.746825,
+                "longitude": -74.005507,
+                "address": "btwn Gansevoort & W 34th St (btwn 10th & 12th Ave)",
+                "category": "Park",
+                "link": "https://foursquare.com/v/40f1d480f964a5206a0a1fe3",
+                "rating": 9.7,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/2226370__1ZXCxWiu1MRUqWE3Mqlq103RdgHHn1E7RpacAVa2JY.jpg"
+            },
+            {
+                "name": "Conservatory Garden",
+                "latitude": 40.793531,
+                "longitude": -73.952032,
+                "address": "1231 5th Ave (at 105th St)",
+                "category": "Garden",
+                "link": "https://foursquare.com/v/4a9ad8d2f964a520213320e3",
+                "rating": 9.6,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/45098817_4HcmCzlMmRTgaX3l0VC9bvcI3ONmByNVhg0C_geFaLk.jpg"
+            },
+            {
+                "name": "Minskoff Theatre",
+                "latitude": 40.757494422232,
+                "longitude": -73.985680227415,
+                "address": "1515 Broadway (at W 45th St)",
+                "category": "Theater",
+                "link": "https://foursquare.com/v/4ec0a81fb6341cd41f1ef402",
+                "rating": 9.6,
+                "price": 4,
+                "image": "https://igx.4sqi.net/img/general/500x500/1577063_cm4AqdTUAE9GfkqAyivqyfX6QWVE69mY6jwod8-uMBc.jpg"
+            },
+            {
+                "name": "West Side Highway Running Path",
+                "latitude": 40.73255155774,
+                "longitude": -74.010579586029,
+                "address": "West Side Highway (btwn Battery Park & W 72nd St)",
+                "category": "Track",
+                "link": "https://foursquare.com/v/4ed6adfce5fabbd89f617d4f",
+                "rating": 9.6,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/33824_mba_kMZrysjP2TKKYZ4CKd37s9-t5hB1nLr7_pC4dfs.jpg"
+            },
+            {
+                "name": "Hudson River Park",
+                "latitude": 40.733059464963,
+                "longitude": -74.010327931434,
+                "address": "West St (btwn Battery Pl & W 59th St)",
+                "category": "Park",
+                "link": "https://foursquare.com/v/4b240a1ff964a520b25f24e3",
+                "rating": 9.6,
+                "price": null,
+                "image": "https://igx.4sqi.net/img/general/500x500/33166152_uOIVuTUZqIxu53gO0t9srKrOdJHoibqXTTx9IZiuSfg.jpg"
+            }
+        ],
+        "more_link": "https://foursquare.com/explore?mode=url&near=New+York%2C+NY"
+    }
+}

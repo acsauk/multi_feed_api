@@ -1,0 +1,218 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "success",
+        "provider": {
+            "service": "timeout",
+            "version": 1
+        },
+        "response": {
+            "format": "places:locations",
+            "version": 1
+        }
+    },
+    "data": {
+        "location": {
+            "slug": "london-uk-timeout",
+            "name": "London (UK)",
+            "display_name": "London",
+            "more_link": "http://www.timeout.com/london",
+            "latitude": 51.5074,
+            "longitude": -0.1278,
+            "data": {
+                "foursquare": {
+                    "near": null,
+                    "radius": null
+                },
+                "timeout": {
+                    "slug": "uk-london"
+                },
+                "viator": {
+                    "dest_id": null
+                },
+                "wingit": {
+                    "tracking_pixel": null
+                }
+            },
+            "meta": {},
+            "created": "2016-01-27T10:46:51Z",
+            "updated": "2016-01-27T10:46:51Z",
+            "provider": {
+                "slug": "timeout",
+                "name": "Timeout",
+                "version": 1,
+                "created": "2016-01-25T09:00:00Z",
+                "updated": "2016-01-25T09:00:00Z",
+                "category": {
+                    "slug": "places",
+                    "name": "Places",
+                    "created": "2015-08-14T14:11:42Z",
+                    "updated": "2015-08-14T14:11:42Z"
+                }
+            }
+        },
+        "locations": [
+            {
+                "name": "British Museum",
+                "description": "London’s busy home for ancient finds and cultural treasures from across the centuries, discovered across the world",
+                "latitude": 51.518971,
+                "longitude": -0.126475,
+                "address": null,
+                "category": "History",
+                "link": "https://www.timeout.com/london/museums/british-museum",
+                "rating": 5,
+                "price": "Free (permanent collection); admission charge applies for some temporary exhibitions",
+                "image": "https://media.timeout.com/images/100679921/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/100679921/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Science Museum",
+                "description": "The Science Museum features seven floors of educational and entertaining exhibits, including the Apollo 10 command module and a flight simulator. The...",
+                "latitude": 51.498285,
+                "longitude": -0.174118,
+                "address": null,
+                "category": "Science and technology",
+                "link": "https://www.timeout.com/london/museums/science-museum",
+                "rating": 5,
+                "price": "Free (permanent collection); admission charge applies for some temporary exhibitions",
+                "image": "https://media.timeout.com/images/101633895/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/101633895/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Natural History Museum",
+                "description": "Both a research institution and a fabulous museum, the Natural History Museum opened in Alfred Waterhouse&rsquo;s purpose-built Romanesque cathedral&nbsp;of...",
+                "latitude": 51.496564,
+                "longitude": -0.176886,
+                "address": null,
+                "category": "Natural history",
+                "link": "https://www.timeout.com/london/museums/natural-history-museum",
+                "rating": 5,
+                "price": "Free (permanent collection); admission charge applies for some temporary exhibitions",
+                "image": "https://media.timeout.com/images/105162351/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/105162351/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Kew Gardens",
+                "description": "Exotic flowers, wild meadows and a walk among the treetops in leafy west London",
+                "latitude": 51.483651,
+                "longitude": -0.289724,
+                "address": null,
+                "category": "Parks and gardens",
+                "link": "https://www.timeout.com/london/attractions/kew-gardens",
+                "rating": 5,
+                "price": "£15, £14 concs, £3.50 ages 4-16, under-fours free, £19-£34 family. Online: £14, £13, £2.50, £18-£32.",
+                "image": "https://media.timeout.com/images/103246641/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/103246641/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Hedonism Wines",
+                "description": "Was there ever a better, or more apt, name for a high-end wine store? For Hedonism really is the ultimate in wine indulgence &ndash; two floors of the most...",
+                "latitude": 51.510805,
+                "longitude": -0.147652,
+                "address": null,
+                "category": "Off licences",
+                "link": "https://www.timeout.com/london/shopping-and-style/hedonism-wines",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/101432197/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/101432197/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Ariana II",
+                "description": "Lucky Kilburn, having this modest Afghan spot for kebabs, curries and tasty regional specials – and a BYOB policy keeps down bills.",
+                "latitude": 51.542689,
+                "longitude": -0.199309,
+                "address": null,
+                "category": "Afghan",
+                "link": "https://www.timeout.com/london/restaurants/ariana-ii",
+                "rating": 5,
+                "price": "Main courses £6-£12. Set meal £13.37 per person (minimum 2) 3 courses. Unlicensed. Corkage no charge",
+                "image": "https://media.timeout.com/images/102812770/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/102812770/{width}/{height}/image.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "V&A",
+                "description": "The V&amp;A is one of the world&rsquo;s &ndash; let alone London's &ndash; most magnificent museums, its foundation stone laid on this site by Queen Victoria...",
+                "latitude": 51.49682,
+                "longitude": -0.172507,
+                "address": null,
+                "category": "Art and design",
+                "link": "https://www.timeout.com/london/museums/v-a",
+                "rating": 5,
+                "price": "Free (permanent collection); admission charge applies for some temporary exhibitions",
+                "image": "https://media.timeout.com/images/101634025/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/101634025/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Little Nan's Bar",
+                "description": "A kitsch living room bar now back in Deptford for good.",
+                "latitude": 51.476729,
+                "longitude": -0.028181,
+                "address": null,
+                "category": "Cocktail bars",
+                "link": "https://www.timeout.com/london/bars-and-pubs/little-nans-bar",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/103565953/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/103565953/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "E Pellicci",
+                "description": "The East End’s pride and joy: a king among caffs.",
+                "latitude": 51.526484,
+                "longitude": -0.063424,
+                "address": null,
+                "category": "British",
+                "link": "https://www.timeout.com/london/restaurants/e-pellicci",
+                "rating": 5,
+                "price": "Main courses £5.50-£8.20. Unlicensed. Corkage no charge",
+                "image": "https://media.timeout.com/images/105146488/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/105146488/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Bradley's Spanish Bar",
+                "description": "Don't be fooled by the name: this red and yellow boozer just off Oxford Street's ropier end is not a hotspot for sherries and fine tapas (see nearby Barrica...",
+                "latitude": 51.516467,
+                "longitude": -0.13271,
+                "address": null,
+                "category": "Pubs",
+                "link": "https://www.timeout.com/london/bars-and-pubs/bradleys-spanish-bar",
+                "rating": 5,
+                "price": null,
+                "image": "https://media.timeout.com/images/102268831/image.jpg",
+                "image_dynamic": "https://media.timeout.com/images/102268831/{width}/{height}/image.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "more_link": "http://www.timeout.com/london"
+    }
+}

@@ -33,6 +33,7 @@ class LocationTest extends TestCase
             'link' => $location->link,
             'rating' => $location->rating,
             'image' => $location->image,
+            'price' => $location->price,
         ]);
     }
 
@@ -49,6 +50,7 @@ class LocationTest extends TestCase
         $link = 'https://foursquare.com/v/412d2800f964a520df0c1fe3';
         $rating = '9.8';
         $image = 'https://igx.4sqi.net/img/general/500x500/655018_Zp3vA90Sy4IIDApvfAo5KnDItoV0uEDZeST7bWT-qzk.jpg';
+        $price = 3;
 
         $payload = [
           'name' => $name,
@@ -58,7 +60,8 @@ class LocationTest extends TestCase
           'category' => $category,
           'link' => $link,
           'rating' => $rating,
-          'image' => $image
+          'image' => $image,
+          'price' => $price
         ];
 
         // Act
@@ -76,7 +79,8 @@ class LocationTest extends TestCase
               'category' => $category,
               'link' => $link,
               'rating' => $rating,
-              'image' => $image
+              'image' => $image,
+              'price' => $price
             ]);
     }
 

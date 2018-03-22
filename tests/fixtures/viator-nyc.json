@@ -1,0 +1,238 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "success",
+        "provider": {
+            "service": "viator",
+            "version": 1
+        },
+        "response": {
+            "format": "places:locations",
+            "version": 1
+        }
+    },
+    "data": {
+        "location": {
+            "slug": "usa-nycny-via",
+            "name": "New York, NY",
+            "display_name": "New York",
+            "more_link": "https://www.viator.com/New-York-City/d687-ttd?eap=brand-subbrand-23431&aid=vba23431en",
+            "latitude": 40.7449,
+            "longitude": -73.9915,
+            "data": {
+                "foursquare": {
+                    "near": null,
+                    "radius": null
+                },
+                "timeout": {
+                    "slug": null
+                },
+                "viator": {
+                    "dest_id": 687
+                },
+                "wingit": {
+                    "tracking_pixel": null
+                }
+            },
+            "meta": {},
+            "created": "2017-04-07T10:30:00Z",
+            "updated": "2017-04-07T10:30:00Z",
+            "provider": {
+                "slug": "viator",
+                "name": "Viator",
+                "version": 1,
+                "created": "2017-04-06T12:00:00Z",
+                "updated": "2017-04-06T12:00:00Z",
+                "category": {
+                    "slug": "places",
+                    "name": "Places",
+                    "created": "2015-08-14T14:11:42Z",
+                    "updated": "2015-08-14T14:11:42Z"
+                }
+            }
+        },
+        "locations": [
+            {
+                "name": "New York CityPASS",
+                "description": "Get the New York CityPASS, the best deal in the Big Apple. Your New York CityPASS saves you time and money as you skip long ticket queues for entry to six of New York's premier attractions.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Flexible",
+                "link": "http://www.viator.com/tours/New-York-City/New-York-CityPASS/d687-2640NYC?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 1985,
+                "price": "$126.00",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/2640/SITours/new-york-citypass-in-new-york-city-457339.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2640/SITours/new-york-citypass-in-new-york-city-457339.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Manhattan Sky Tour: New York Helicopter Flight",
+                "description": "Take to the Manhattan skies for an exciting helicopter tour of New York City! Enjoy spectacular aerial views of Manhattan on this memorable 12-15-minute helicopter flight that takes you past the Statue of Liberty, New York's financial district of Wall Street and the humbling sight of Ground Zero. Catch a glimpse of the magnificent Empire State Building and historic Ellis Island for a truly birds-eye view of New York City!",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "12-15 minutes",
+                "link": "http://www.viator.com/tours/New-York-City/Manhattan-Sky-Tour-New-York-Helicopter-Flight/d687-5024MANSKY?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 1086,
+                "price": "$209.00",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5024/SITours/manhattan-sky-tour-new-york-helicopter-flight-in-new-york-city-153891.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5024/SITours/manhattan-sky-tour-new-york-helicopter-flight-in-new-york-city-153891.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "New York City FreeStyle Pass",
+                "description": "The New York City Freestyle Pass offers flexibility, convenience, iconic sightseeing and entry into some of the coolest NYC attractions! <br /><br />You’ll have full access to all 3 hop-on, hop-off bus loops through Uptown, Downtown and Brooklyn. Sit back and enjoy double-decker views as professional guides point out world-famous landmarks, including Times Square, the Empire State Building, Madison Square Garden, Rockefeller Center, the Brooklyn Bridge, and the Statue of Liberty! In all, you’ll see 40+ top attractions and learn the background of New York’s neighborhoods, from the classic to the most eccentric. <br /><br />Your Pass also includes admission to the top attractions of your choice! Just select a 3-attraction pass, 5-attraction pass or 7-attraction pass and choose from the list of the city’s most popular attractions.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Choose 3, 5 or 7 attractions",
+                "link": "http://www.viator.com/tours/New-York-City/New-York-City-FreeStyle-Pass/d687-2625FNYP?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 273,
+                "price": "$129.00",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/2625/SITours/new-york-city-freestyle-pass-in-new-york-city-295463.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2625/SITours/new-york-city-freestyle-pass-in-new-york-city-295463.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "NYC One World Observatory Skip-the-Line Ticket",
+                "description": "There are a million things to experience in New York City, but this is one in a million. The One World Observatory is the latest and greatest Big Apple attraction. Located at the top three floors of the One World Trade Center, which is now the tallest building in the western hemisphere, the observatory boasts jaw-dropping views of Manhattan and its surrounds. With this admission ticket, you'll have access to all three Observatory floors for a memorable experience that offers fabulous photo ops, New York City history, and dining options to buy food or drinks high in the sky. <br />Choose to upgrade your standard admission ticket to priority admission with express and expedited VIP entry straight to the top!",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Flexible",
+                "link": "http://www.viator.com/tours/New-York-City/NYC-One-World-Observatory-Skip-the-Line-Ticket/d687-8747ONEWORLD?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 5,
+                "rating_count": 590,
+                "price": "$34.00",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/8747/SITours/nyc-one-world-observatory-skip-the-line-ticket-in-new-york-city-224249.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/8747/SITours/nyc-one-world-observatory-skip-the-line-ticket-in-new-york-city-224249.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Big Bus New York Hop-On Hop-Off Tour",
+                "description": "Hop on and hop off at more than 30 stops around New York City with an open-top Big Bus tour, and visit NYC attractions at your own pace. Travel with ease by double-decker bus past world-famous landmarks including the Empire State Building, Times Square, Rockefeller Center and Central Park. With your Classic ticket, ride the bus loops around Manhattan as you learn about the city's history from your engaging guide. Upgrade to a Premium ticket and include a bus loop around Brooklyn and sightseeing cruise or night tour. Choose the Deluxe ticket to include all loop and a choice of sightseeing cruise or night tour and choice of Statue of Liberty or Empire State Building.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Varies",
+                "link": "http://www.viator.com/tours/New-York-City/Big-Bus-New-York-Hop-On-Hop-Off-Tour/d687-5096NYCHOHO?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 1035,
+                "price": "$40.50",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5096/SITours/big-bus-new-york-hop-on-hop-off-tour-in-new-york-city-168152.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5096/SITours/big-bus-new-york-hop-on-hop-off-tour-in-new-york-city-168152.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Bateaux New York Dinner Cruise",
+                "description": "On this luxury New York City dinner cruise, savor gourmet cuisine and enjoy live jazz entertainment while soaking up breathtaking views of the Manhattan, New Jersey and Brooklyn skylines. Pass in front of the Empire State Building, Battery Park, Statue of Liberty, South Street Seaport and more from the viewing decks or the all-glass enclosed cabin, treating you to amazing views every second of the way. Upgrade to enjoy a romantic or first class VIP experience including a private table and French sparkling wine!",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "3 hours",
+                "link": "http://www.viator.com/tours/New-York-City/Bateaux-New-York-Dinner-Cruise/d687-5042NYCBAT?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 5,
+                "rating_count": 445,
+                "price": "$186.07",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5042/SITours/bateaux-new-york-dinner-cruise-in-new-york-city-128236.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5042/SITours/bateaux-new-york-dinner-cruise-in-new-york-city-128236.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "New York Manhattan Scenic Helicopter Tour",
+                "description": "<!-- --> <!-- --> Take to the skies on a helicopter tour to see New York's amazing skyline! On this scenic 18-20-minute helicopter flight you'll soar through the sky and experience a bird's eye view of Manhattan's world famous landmarks. This is the best view you can get of New York City!",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "18-20 minutes",
+                "link": "http://www.viator.com/tours/New-York-City/New-York-Manhattan-Scenic-Helicopter-Tour/d687-5024NIGHT?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 636,
+                "price": "$289.00",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5024/SITours/new-york-manhattan-scenic-helicopter-tour-in-new-york-city-153892.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5024/SITours/new-york-manhattan-scenic-helicopter-tour-in-new-york-city-153892.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Shared Arrival Transfer: New York Airports to Hotel",
+                "description": "After a long flight, the last thing you want to do is find a cab and pay an exorbitant fee. Instead, take the easy way with a pre-purchased shared transfer from JFK, Newark or La Guardia airport to your Manhattan hotel. Transfers operate 24 hours a day, 7 days a week in modern, comfortable vans operated by a team of professional, trained and courteous drivers who know New York City.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Varies",
+                "link": "http://www.viator.com/tours/New-York-City/Shared-Arrival-Transfer-New-York-Airports-to-Hotel/d687-5548NYCAPTHTL?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 3.5,
+                "rating_count": 3901,
+                "price": "$18.99",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5548/SITours/shared-arrival-transfer-new-york-airports-to-hotel-in-new-york-city-331799.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5548/SITours/shared-arrival-transfer-new-york-airports-to-hotel-in-new-york-city-331799.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Harlem Sunday Morning Gospel Tour",
+                "description": "<p>Spend Sunday morning in Harlem, the ethnically diverse borough of New York. You'll join a local church congregation and experience the soul-stirring power of gospel music on this special visit to one of New York City's most vital neighborhoods.</p>",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "4 hours",
+                "link": "http://www.viator.com/tours/New-York-City/Harlem-Sunday-Morning-Gospel-Tour/d687-3453TG1?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 824,
+                "price": "$65.00",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/3453/SITours/harlem-sunday-morning-gospel-tour-in-new-york-135837.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3453/SITours/harlem-sunday-morning-gospel-tour-in-new-york-135837.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Shared Roundtrip Transfer: New York Airports and Manhattan Hotels",
+                "description": "Make your trip to New York hassle free with a pre-purchased roundtrip transfer between New York Airports and Manhattan hotels. Transfers operate 24 hours a day, 7 days a week in modern, comfortable vans operated by a team of professional, trained and courteous drivers who know New York City.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Varies",
+                "link": "http://www.viator.com/tours/New-York-City/Shared-Roundtrip-Transfer-New-York-Airports-and-Manhattan-Hotels/d687-5548NYCRT?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4,
+                "rating_count": 41,
+                "price": "$36.99",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5548/SITours/shared-roundtrip-transfer-new-york-airports-and-manhattan-hotels-in-new-york-city-331799.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5548/SITours/shared-roundtrip-transfer-new-york-airports-and-manhattan-hotels-in-new-york-city-331799.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "more_link": "https://www.viator.com/New-York-City/d687-ttd?eap=brand-subbrand-23431&aid=vba23431en"
+    }
+}

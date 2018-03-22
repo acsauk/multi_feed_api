@@ -1,0 +1,238 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "success",
+        "provider": {
+            "service": "viator",
+            "version": 1
+        },
+        "response": {
+            "format": "places:locations",
+            "version": 1
+        }
+    },
+    "data": {
+        "location": {
+            "slug": "uk-london-via",
+            "name": "London, UK",
+            "display_name": "London",
+            "more_link": "https://www.viator.com/London/d737-ttd?eap=brand-subbrand-23431&aid=vba23431en",
+            "latitude": 51.5074,
+            "longitude": -0.1278,
+            "data": {
+                "foursquare": {
+                    "near": null,
+                    "radius": null
+                },
+                "timeout": {
+                    "slug": null
+                },
+                "viator": {
+                    "dest_id": 737
+                },
+                "wingit": {
+                    "tracking_pixel": null
+                }
+            },
+            "meta": {},
+            "created": "2017-04-07T10:30:00Z",
+            "updated": "2017-04-07T10:30:00Z",
+            "provider": {
+                "slug": "viator",
+                "name": "Viator",
+                "version": 1,
+                "created": "2017-04-06T12:00:00Z",
+                "updated": "2017-04-06T12:00:00Z",
+                "category": {
+                    "slug": "places",
+                    "name": "Places",
+                    "created": "2015-08-14T14:11:42Z",
+                    "updated": "2015-08-14T14:11:42Z"
+                }
+            }
+        },
+        "locations": [
+            {
+                "name": "London Dungeon Entrance Ticket",
+                "description": "Be fast-track transported to the darkest moments in London's history at the creepiest attraction in town, the London Dungeon. Enjoy your spine-chilling appointment with Sweeny Todd. Can you bear a face-to-face encounter with the merciless Jack the Ripper?",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Varies",
+                "link": "http://www.viator.com/tours/London/London-Dungeon-Entrance-Ticket/d737-2256LONDUN?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4,
+                "rating_count": 220,
+                "price": "$34.08",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/2256/SITours/london-dungeon-entrance-ticket-in-london-354825.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2256/SITours/london-dungeon-entrance-ticket-in-london-354825.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Stonehenge, Windsor Castle, and Bath from London",
+                "description": "Discover Stonehenge, Windsor Castle and Bath on this day trip from London. Leave the city behind you and travel by air-conditioned coach to Windsor Castle, home of the British Royal Family for the last 900 years. Visit St George's Chapel and the State Apartments with your tour guide before traveling out to Salisbury, where the ancient rock formations of Stonehenge await. Continue on to the beautiful Georgian city of Bath, visit the Roman Baths and enjoy a panoramic tour with your guide before returning to London.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "11 hours",
+                "link": "http://www.viator.com/tours/London/Stonehenge-Windsor-Castle-and-Bath-from-London/d737-3858EE021?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 5469,
+                "price": "$126.40",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/3858/SITours/stonehenge-windsor-castle-and-bath-from-london-in-london-314199.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3858/SITours/stonehenge-windsor-castle-and-bath-from-london-in-london-314199.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Warner Bros. Studio: The Making of Harry Potter with Luxury Round-Trip Transport from London",
+                "description": "Step into the mystical world of Harry Potter™ with a behind-the-scenes visit to Warner Bros. Studio London. With luxury round-trip transport from London Victoria to the north London studios included, this 7-hour experience enables you to discover the magic of the Harry Potter films without any hassle. After a relaxing journey, explore film sets like the Ministry of Magic and Diagon Alley, and see incredible costumes, props and more. You’ll also be able to pose for photos at Platform 9 ¾ and stand next to the original ‘Hogwarts Express.’",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "7 hours",
+                "link": "http://www.viator.com/tours/London/Warner-Bros-Studio-The-Making-of-Harry-Potter-with-Luxury-Round-Trip-Transport-from-London/d737-3858EE010?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 633,
+                "price": "$105.10",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/3858/SITours/warner-bros-studio-the-making-of-harry-potter-with-luxury-round-trip-in-london-311528.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3858/SITours/warner-bros-studio-the-making-of-harry-potter-with-luxury-round-trip-in-london-311528.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Skip the Line: Sea Life London Aquarium",
+                "description": "The Sea Life London Aquarium is home to one of Europe's largest collections of global marine life, and you can visit without waiting on the Skip the Line tour. You will find up to 400 species of sea life, including sharks, eels, stingrays, clownfish (like Nemo!) and turtles, across 50 living displays. The Sea Life experience takes you on an interactive journey that includes supervised feeding times and optional touch pools.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Flexible",
+                "link": "http://www.viator.com/tours/London/Skip-the-Line-Sea-Life-London-Aquarium/d737-5097LONAQUA?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 64,
+                "price": "$29.82",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5097/SITours/skip-the-line-sea-life-london-aquarium-in-london-316307.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5097/SITours/skip-the-line-sea-life-london-aquarium-in-london-316307.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Luxury Paris Day Trip with Champagne Lunch on the Eiffel Tower",
+                "description": "Enjoy an unforgettable day in the French capital on this luxury day trip from London to Paris, with an included Champagne lunch at the Eiffel Tower! Travel on Eurostar from St Pancras International and enjoy a panoramic sightseeing tour taking in Paris’ top sights, including the Champs-Élysées and Arc de Triomphe. Sip Champagne before a delicious 2-course lunch on the Eiffel Tower and enjoy a cruise along the Seine past Notre Dame Cathedral. Then, choose to visit the Louvre (own expense) or enjoy free time to explore or shop independently.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "14 hours 30 minutes",
+                "link": "http://www.viator.com/tours/London/Luxury-Paris-Day-Trip-with-Champagne-Lunch-on-the-Eiffel-Tower/d737-2452T29?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 467,
+                "price": "$333.75",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/2452/SITours/luxury-paris-day-trip-with-champagne-lunch-on-the-eiffel-tower-in-london-132219.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2452/SITours/luxury-paris-day-trip-with-champagne-lunch-on-the-eiffel-tower-in-london-132219.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Harry Potter Tour of Warner Bros. Studio in London",
+                "description": "Delve into the magical world of Harry Potter™ at the Warner Bros. Studio Tour London, with round-trip luxury coach transport included. Follow in the footsteps of Hogwarts’ students as you walk around original sets like Diagon Alley and Platform 9 ¾, complete with the Hogwarts Express steam engine. Get up close to costumes and props, and discover the wizardry required to create the mind-blowing special effects and animatronics.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "7 hours",
+                "link": "http://www.viator.com/tours/London/Harry-Potter-Tour-of-Warner-Bros-Studio-in-London/d737-2452POTTER?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 917,
+                "price": "$100.83",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/2452/SITours/harry-potter-tour-of-warner-bros-studio-in-london-in-london-126758.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2452/SITours/harry-potter-tour-of-warner-bros-studio-in-london-in-london-126758.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "London Pass Including Hop-On Hop-Off Bus Tour and Entry to Over 60 Attractions",
+                "description": "Discover the joy of sightseeing with the London Pass, and enjoy free entry to over 70 of its world-class sites like Westminster Abbey, The Shard and the Tower of London. Save time as you skip the queues with fast-track entry at countless attractions, and take advantage of special offers at quality London restaurants and shops.<br /><br />Even better, why not upgrade and include transport with your London Pass? Choose from a 1-, 2-, 3-, 4-, 5- or 6- day sightseeing pass with Oyster Travelcard included and see the highlights of England’s cosmopolitan capital with ease.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "Flexible",
+                "link": "http://www.viator.com/tours/London/London-Pass-Including-Hop-On-Hop-Off-Bus-Tour-and-Entry-to-Over-60-Attractions/d737-3138LONDON?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4,
+                "rating_count": 1143,
+                "price": "$97.99",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/3138/SITours/london-pass-including-hop-on-hop-off-bus-tour-and-entry-to-over-60-in-london-413431.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3138/SITours/london-pass-including-hop-on-hop-off-bus-tour-and-entry-to-over-60-in-london-413431.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Stonehenge, Windsor Castle, Bath, Pub Lunch in Lacock",
+                "description": "Explore the beautiful scenery of the English countryside on this full-day tour of Windsor Castle, Stonehenge, Lacock and Bath. Head to Windsor Castle, home of the British Royal Family, and explore St George's Chapel and the State Apartments. Continue onward to the 5,000-year-old prehistoric site of Stonehenge with a guide, and ponder over its use in centuries past. Visit the charming English village of Lacock for a traditional pub lunch, and finally, enjoy a coach tour of Georgian city of Bath as well as a short walking tour.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "12 hours 30 minutes",
+                "link": "http://www.viator.com/tours/London/Stonehenge-Windsor-Castle-Bath-Pub-Lunch-in-Lacock/d737-2452T1?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 2114,
+                "price": "$134.21",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/2452/SITours/stonehenge-windsor-castle-bath-pub-lunch-in-lacock-in-london-151436.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2452/SITours/stonehenge-windsor-castle-bath-pub-lunch-in-lacock-in-london-151436.jpg",
+                "featured": true,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "Warner Bros. Studio Tour London - The Making of Harry Potter",
+                "description": "Get a behind-the-scenes look at the Harry Potter™ film series with the Warner Bros. Studio Tour London. Enjoy round-trip transport from central London to the Harry Potter film studio to enter the magical world of Harry and his friends. You'll see how the movies were created as you tour the real movie sets, admire the costumes and props, and learn about the special effects and animatronics used to create the films' stunning visuals. Explore the Great Hall, pose next to the original ‘Hogwarts Express,’ set foot down Diagon Alley and more.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "7 hours",
+                "link": "http://www.viator.com/tours/London/Warner-Bros-Studio-Tour-London-The-Making-of-Harry-Potter/d737-5461POTTERSTUDIO?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 5,
+                "rating_count": 1211,
+                "price": "$109.36",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/5461/SITours/warner-bros-studio-tour-london-the-making-of-harry-potter-in-london-155177.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5461/SITours/warner-bros-studio-tour-london-the-making-of-harry-potter-in-london-155177.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "name": "The Original London Sightseeing Tour: Hop-on Hop-off",
+                "description": "Discover top London attractions at your leisure on this flexible open dated hop-on hop-off sightseeing tour of London. With three family-friendly routes and three transport link services available, this hop-on hop-off bus in London offers a perfect day of sightseeing. Admire Tower Bridge, the London Eye, Big Ben, Westminster Abbey and more from the comfort of your spacious open-top double-decker bus. As a bonus, use your London hop-on hop-off tour ticket for a range of additional activities including a Thames River sightseeing cruise and three London walking tours.",
+                "latitude": null,
+                "longitude": null,
+                "address": null,
+                "category": null,
+                "duration": "1 day",
+                "link": "http://www.viator.com/tours/London/The-Original-London-Sightseeing-Tour-Hop-on-Hop-off/d737-3302OT?eap=brand-subbrand-23431&aid=vba23431en",
+                "rating": 4.5,
+                "rating_count": 3289,
+                "price": "$45.45",
+                "image_thumb": "https://cache-graphicslib.viator.com/graphicslib/thumbs154x109/3302/SITours/the-original-london-sightseeing-tour-hop-on-hop-off-in-london-484553.jpg",
+                "image_large": "https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3302/SITours/the-original-london-sightseeing-tour-hop-on-hop-off-in-london-484553.jpg",
+                "featured": false,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "more_link": "https://www.viator.com/London/d737-ttd?eap=brand-subbrand-23431&aid=vba23431en"
+    }
+}
